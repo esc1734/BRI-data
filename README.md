@@ -8,4 +8,4 @@
 
 ### Data analysis: 
 
-**'gdp_data_analysis.py'** contains the computations for the relevant statistics and figures referenced in the paper.
+**'gened_project_data.py'** contains the computations for the relevant statistics and figures referenced in the paper.
